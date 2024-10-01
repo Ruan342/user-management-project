@@ -53,8 +53,3 @@ Este projeto é uma aplicação para gerenciar usuários, com Flask no back-end,
 - **client/**: Código do front-end (Vue.js)
 - **udata.json**: Arquivo JSON com os dados dos usuários
 
-## Requisitos
-
-- Python 3.8+
-- Node.js 14+
-- MongoDB
