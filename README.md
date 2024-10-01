@@ -16,10 +16,3 @@ Este projeto é uma aplicação para gerenciar usuários utilizando Flask no bac
 1. Instale as dependências do back-end:
    ```bash
    pip install -r requirements.txt
-   
-├── app.py              # Código do back-end (Flask)
-├── mongodb.py          # Conexão com o MongoDB
-├── parser.py           # Script para importar dados do JSON para o MongoDB
-├── client/             # Código do front-end (Vue.js)
-├── README.md           # Arquivo de instruções do projeto
-├── requirements.txt    # Dependências do Flask
