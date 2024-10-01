@@ -9,10 +9,6 @@ Este projeto é uma aplicação para gerenciar usuários utilizando Flask no bac
 - **Vue.js para o front-end**: Interface interativa para gerenciar os usuários.
 - **Flask para o back-end**: API RESTful para comunicação com o MongoDB.
 
-## Como rodar o projeto
-
 ### Back-end (Flask)
 
-1. Instale as dependências do back-end:
-   ```bash
-   pip install -r requirements.txt
+### Front-end (Vue)
